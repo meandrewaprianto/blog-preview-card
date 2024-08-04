@@ -45,10 +45,11 @@ Users should be able to:
 
 Flebox (to make an item inside container side by side)
 
-```<footer>
-      <img src="some-image.jpg">
-      <p>Name Of Author</p>
-   </footer>
+```html
+<footer>
+  <img src="some-image.jpg" />
+  <p>Name Of Author</p>
+</footer>
 ```
 
 ```css
