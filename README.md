@@ -53,7 +53,7 @@ Flebox (to make an item inside container side by side)
 ```
 
 ```css
-.footer {
+footer {
   display: flex;
   align-items: center;
 }
