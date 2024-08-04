@@ -67,4 +67,3 @@ footer {
 ## Author
 
 - Frontend Mentor - [@meandrewaprianto](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/meandrewaprianto)
