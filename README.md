@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](assets/images/blog-preview-card.png.jpg)
+![](assets/images/blog-preview-card.png)
 
 ### Links
 
